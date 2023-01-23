@@ -12,11 +12,7 @@
   </tr>
   
   <tr>
-  <td align="center"></td>
-  </tr>
-  
-  <tr>
-  <td align="center"><img src="screenshots/amazon_ui.png" width=200></td>
+  <td align="center"><img src="screenshots/amazon_ui.gif" width=200></td>
   </tr>
   
 </table>
